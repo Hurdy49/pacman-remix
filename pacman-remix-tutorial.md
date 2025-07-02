@@ -9,8 +9,6 @@ Rebuild and reimagine Pacman to explore how games communicate meaning.
 
 ## Introduction @showdialog
 
-![Pacman gameplay](/static/tutorials/pacman-remix/pacman.gif)
-
 What happens when we change the audience’s experiences—such as the visuals or rules—within a game?  
 
 How can we, as game designers and developers, communicate meaning?
