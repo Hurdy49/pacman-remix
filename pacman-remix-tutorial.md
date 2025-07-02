@@ -286,3 +286,13 @@ You’ve rebuilt and reimagined *Pacman* to explore how games can communicate me
 Now you’re ready to design your own original serious game.
 
 Click **Done** to finish this tutorial and begin your next project!
+
+
+```blockconfig
+let mySprite: Sprite = null
+let ghost: Sprite = null
+let pellet: Sprite = null
+scene.setBackgroundColor(1)
+
+```
+
